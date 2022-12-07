@@ -1,0 +1,684 @@
+2021-01-10 08:43:42 info: 🚀 App listening on the port 3000
+2021-01-10 08:43:42 info: 🟢 The database is connected.
+2021-01-10 08:47:07 info: [0mGET /api-docs [36m301[0m 5.696 ms - 183[0m
+2021-01-10 08:47:07 info: [0mGET /api-docs/ [32m200[0m 5.924 ms - -[0m
+2021-01-10 08:47:07 info: [0mGET /api-docs/swagger-ui-init.js [32m200[0m 1.151 ms - -[0m
+2021-01-10 08:47:07 info: [0mGET /api-docs/swagger-ui.css [32m200[0m 6.355 ms - -[0m
+2021-01-10 08:47:07 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [32m200[0m 9.482 ms - -[0m
+2021-01-10 08:47:07 info: [0mGET /api-docs/swagger-ui-bundle.js [32m200[0m 14.658 ms - -[0m
+2021-01-10 08:47:08 info: [0mGET /api-docs/favicon-32x32.png [32m200[0m 1.426 ms - 628[0m
+2021-01-10 08:47:10 info: [0mGET /api-docs/[object%20Module] [32m200[0m 2.420 ms - -[0m
+2021-01-10 08:47:23 info: [0mGET /users [32m200[0m 17.798 ms - 31[0m
+2021-01-10 08:47:46 info: [0mGET /api-docs/[object%20Module] [36m304[0m 1.270 ms - -[0m
+2021-01-10 08:48:56 info: [0mPOST /users [32m201[0m 116.883 ms - 165[0m
+2021-01-10 08:49:05 info: [0mGET /users [32m200[0m 6.094 ms - 167[0m
+2021-01-10 08:49:56 error: StatusCode : 400, Message : email must be an email, password must be a string
+2021-01-10 08:49:56 info: [0mPOST /users [33m400[0m 2.203 ms - 63[0m
+2021-01-10 08:50:02 info: [0mGET /users [32m200[0m 7.388 ms - 167[0m
+2021-01-10 08:50:09 info: [0mGET /users [32m200[0m 4.776 ms - 167[0m
+2021-01-10 08:50:23 info: [0mGET /users [32m200[0m 4.698 ms - 167[0m
+2021-01-10 08:52:01 info: [0mPOST /users [32m201[0m 84.455 ms - 167[0m
+2021-01-10 08:52:06 info: [0mGET /users [32m200[0m 6.615 ms - 306[0m
+2021-01-10 08:52:25 info: [0mGET /api-docs/ [36m304[0m 0.922 ms - -[0m
+2021-01-10 08:52:25 info: [0mGET /api-docs/swagger-ui.css [36m304[0m 1.296 ms - -[0m
+2021-01-10 08:52:25 info: [0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 6.432 ms - -[0m
+2021-01-10 08:52:25 info: [0mGET /api-docs/swagger-ui-init.js [36m304[0m 2.705 ms - -[0m
+2021-01-10 08:52:25 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 9.192 ms - -[0m
+2021-01-10 08:52:25 info: [0mGET /api-docs/[object%20Module] [36m304[0m 1.952 ms - -[0m
+2021-01-10 08:52:25 info: [0mGET /api-docs/favicon-32x32.png [36m304[0m 10.410 ms - -[0m
+2021-01-10 08:52:30 info: [0mGET /api-docs/ [36m304[0m 1.236 ms - -[0m
+2021-01-10 08:52:30 info: [0mGET /api-docs/swagger-ui.css [36m304[0m 4.334 ms - -[0m
+2021-01-10 08:52:30 info: [0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.785 ms - -[0m
+2021-01-10 08:52:30 info: [0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 10.523 ms - -[0m
+2021-01-10 08:52:30 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 5.802 ms - -[0m
+2021-01-10 08:52:46 info: [0mGET /api-docs/[object%20Module] [36m304[0m 2.883 ms - -[0m
+2021-01-10 08:52:56 info: [0mGET /api-docs/[object%20Module] [36m304[0m 1.733 ms - -[0m
+2021-01-10 08:53:20 info: [0mGET /users/5ffabf78b7dc9200419bfa98 [32m200[0m 7.751 ms - 165[0m
+2021-01-10 08:54:44 info: [0mGET /users [32m200[0m 6.079 ms - 306[0m
+2021-01-10 08:54:44 info: [0mGET /favicon.ico [33m404[0m 2.127 ms - 150[0m
+2021-01-10 08:54:49 info: [0mGET / [32m200[0m 3.817 ms - 2[0m
+2021-01-10 08:54:58 info: [0mGET /auth [33m404[0m 1.157 ms - 143[0m
+2021-01-10 08:55:48 info: 🚀 App listening on the port 3000
+2021-01-10 08:55:48 info: 🟢 The database is connected.
+2021-01-10 09:16:33 info: 🚀 App listening on the port 3000
+2021-01-10 09:16:33 info: 🟢 The database is connected.
+2021-01-10 09:16:56 info: 🚀 App listening on the port 3000
+2021-01-10 09:16:56 info: 🟢 The database is connected.
+2021-01-10 09:17:09 info: 🚀 App listening on the port 3000
+2021-01-10 09:17:09 info: 🟢 The database is connected.
+2021-01-10 09:17:37 info: 🚀 App listening on the port 3000
+2021-01-10 09:17:37 info: 🟢 The database is connected.
+2021-01-10 09:17:54 info: 🚀 App listening on the port 3000
+2021-01-10 09:17:54 info: 🟢 The database is connected.
+2021-01-10 09:18:39 info: 🚀 App listening on the port 3000
+2021-01-10 09:18:39 info: 🟢 The database is connected.
+2021-01-10 09:19:38 info: 🚀 App listening on the port 3000
+2021-01-10 09:19:38 info: 🟢 The database is connected.
+2021-01-10 09:19:49 info: 🚀 App listening on the port 3000
+2021-01-10 09:19:49 info: 🟢 The database is connected.
+2021-01-10 09:20:00 info: 🚀 App listening on the port 3000
+2021-01-10 09:20:00 info: 🟢 The database is connected.
+2021-01-10 09:20:49 info: 🚀 App listening on the port 3000
+2021-01-10 09:20:49 info: 🟢 The database is connected.
+2021-01-10 09:21:57 info: 🚀 App listening on the port 3000
+2021-01-10 09:21:57 info: 🟢 The database is connected.
+2021-01-10 09:23:21 info: 🚀 App listening on the port 3000
+2021-01-10 09:23:21 info: 🟢 The database is connected.
+2021-01-10 09:23:36 info: 🚀 App listening on the port 3000
+2021-01-10 09:23:36 info: 🟢 The database is connected.
+2021-01-10 09:24:21 info: 🚀 App listening on the port 3000
+2021-01-10 09:24:21 info: 🟢 The database is connected.
+2021-01-10 09:24:30 info: 🚀 App listening on the port 3000
+2021-01-10 09:24:30 info: 🟢 The database is connected.
+2021-01-10 09:37:35 info: 🚀 App listening on the port 3000
+2021-01-10 09:37:35 info: 🟢 The database is connected.
+2021-01-10 09:39:58 info: 🚀 App listening on the port 3000
+2021-01-10 09:39:58 info: 🟢 The database is connected.
+2021-01-10 09:40:05 info: 🚀 App listening on the port 3000
+2021-01-10 09:40:05 info: 🟢 The database is connected.
+2021-01-10 09:40:16 info: 🚀 App listening on the port 3000
+2021-01-10 09:40:16 info: 🟢 The database is connected.
+2021-01-10 09:40:27 info: 🚀 App listening on the port 3000
+2021-01-10 09:40:27 info: 🟢 The database is connected.
+2021-01-10 09:42:53 info: 🚀 App listening on the port 3000
+2021-01-10 09:42:53 info: 🟢 The database is connected.
+2021-01-10 09:43:00 info: 🚀 App listening on the port 3000
+2021-01-10 09:43:00 info: 🟢 The database is connected.
+2021-01-10 09:43:11 info: 🚀 App listening on the port 3000
+2021-01-10 09:43:11 info: 🟢 The database is connected.
+2021-01-10 09:43:27 info: 🚀 App listening on the port 3000
+2021-01-10 09:43:27 info: 🟢 The database is connected.
+2021-01-10 09:43:42 info: 🚀 App listening on the port 3000
+2021-01-10 09:43:42 info: 🟢 The database is connected.
+2021-01-10 09:47:07 info: 🚀 App listening on the port 3000
+2021-01-10 09:47:07 info: 🟢 The database is connected.
+2021-01-10 09:47:49 info: 🚀 App listening on the port 3000
+2021-01-10 09:47:49 info: 🟢 The database is connected.
+2021-01-10 09:48:03 info: 🚀 App listening on the port 3000
+2021-01-10 09:48:03 info: 🟢 The database is connected.
+2021-01-10 09:50:47 info: 🚀 App listening on the port 3000
+2021-01-10 09:50:47 info: 🟢 The database is connected.
+2021-01-10 09:50:59 info: 🚀 App listening on the port 3000
+2021-01-10 09:50:59 info: 🟢 The database is connected.
+2021-01-10 09:53:09 info: 🚀 App listening on the port 3000
+2021-01-10 09:53:10 info: 🟢 The database is connected.
+2021-01-10 09:53:40 info: 🚀 App listening on the port 3000
+2021-01-10 09:53:41 info: 🟢 The database is connected.
+2021-01-10 10:04:54 info: 🚀 App listening on the port 3000
+2021-01-10 10:04:54 info: 🟢 The database is connected.
+2021-01-10 10:05:23 info: [0mGET /api-docs/ [36m304[0m 18.728 ms - -[0m
+2021-01-10 10:05:23 info: [0mGET /api-docs/swagger-ui.css [36m304[0m 3.480 ms - -[0m
+2021-01-10 10:05:23 info: [0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 8.136 ms - -[0m
+2021-01-10 10:05:23 info: [0mGET /api-docs/swagger-ui-init.js [32m200[0m 4.574 ms - -[0m
+2021-01-10 10:05:23 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 6.997 ms - -[0m
+2021-01-10 10:05:28 info: [0mGET /api-docs/ [36m304[0m 1.123 ms - -[0m
+2021-01-10 10:05:28 info: [0mGET /api-docs/swagger-ui.css [36m304[0m 2.350 ms - -[0m
+2021-01-10 10:05:28 info: [0mGET /api-docs/swagger-ui-init.js [36m304[0m 2.467 ms - -[0m
+2021-01-10 10:05:28 info: [0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 8.083 ms - -[0m
+2021-01-10 10:05:28 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 12.873 ms - -[0m
+2021-01-10 10:05:42 info: [0mGET /cats [32m200[0m 18.611 ms - 31[0m
+2021-01-10 10:05:52 info: [0mGET /users [32m200[0m 4.551 ms - 31[0m
+2021-01-10 10:06:15 info: [0mPOST /users [32m201[0m 114.200 ms - 167[0m
+2021-01-10 10:06:23 info: [0mPOST /users [32m201[0m 81.528 ms - 167[0m
+2021-01-10 10:06:27 error: StatusCode : 409, Message : You're email me3@me2.com already exists
+2021-01-10 10:06:27 info: [0mPOST /users [33m409[0m 17.245 ms - 53[0m
+2021-01-10 10:06:32 info: [0mGET /users [32m200[0m 5.517 ms - 308[0m
+2021-01-10 10:06:50 error: StatusCode : 400, Message : race must be a string, origine must be a string, comportement must be a string, photoURL must be a string
+2021-01-10 10:06:50 info: [0mPOST /cats [33m400[0m 7.127 ms - 119[0m
+2021-01-10 10:08:53 info: [0mPOST /cats [32m201[0m 14.155 ms - 158[0m
+2021-01-10 10:09:06 info: [0mPOST /cats [32m201[0m 10.963 ms - 160[0m
+2021-01-10 10:09:13 info: [0mGET /cats [32m200[0m 3.562 ms - 292[0m
+2021-01-10 10:13:03 info: 🚀 App listening on the port 3000
+2021-01-10 10:13:04 info: 🟢 The database is connected.
+2021-01-10 11:16:47 info: 🚀 App listening on the port 3000
+2021-01-10 11:16:47 info: 🟢 The database is connected.
+2021-01-10 11:17:16 info: [0mGET /api-docs/ [36m304[0m 10.609 ms - -[0m
+2021-01-10 11:17:16 info: [0mGET /api-docs/swagger-ui.css [36m304[0m 3.912 ms - -[0m
+2021-01-10 11:17:16 info: [0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 0.996 ms - -[0m
+2021-01-10 11:17:16 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 13.505 ms - -[0m
+2021-01-10 11:17:16 info: [0mGET /api-docs/swagger-ui-init.js [32m200[0m 10.998 ms - -[0m
+2021-01-10 11:17:22 info: [0mGET /api-docs/[object%20Module] [36m304[0m 1.076 ms - -[0m
+2021-01-10 11:17:24 info: [0mGET /api-docs/[object%20Module] [36m304[0m 1.465 ms - -[0m
+2021-01-10 11:17:27 info: [0mGET /cats [32m200[0m 25.790 ms - 31[0m
+2021-01-10 11:17:44 info: [0mPOST /cats [32m201[0m 80.455 ms - 150[0m
+2021-01-10 11:18:28 info: [0mPOST /cats [32m201[0m 27.211 ms - 149[0m
+2021-01-10 11:18:34 info: [0mGET /cats [32m200[0m 7.041 ms - 273[0m
+2021-01-10 13:02:40 info: 🚀 App listening on the port 3000
+2021-01-10 13:02:40 info: 🟢 The database is connected.
+2021-01-10 13:05:27 info: 🚀 App listening on the port 3000
+2021-01-10 13:05:27 info: 🟢 The database is connected.
+2021-01-10 13:06:35 info: 🚀 App listening on the port 3000
+2021-01-10 13:06:35 info: 🟢 The database is connected.
+2021-01-10 13:08:30 info: [0mGET /cats [32m200[0m 21.543 ms - 31[0m
+2021-01-10 13:08:39 info: [0mGET /cats [32m200[0m 4.488 ms - 31[0m
+2021-01-10 13:16:27 info: 🚀 App listening on the port 3000
+2021-01-10 13:16:27 info: 🟢 The database is connected.
+2021-01-10 13:18:31 info: 🚀 App listening on the port 3000
+2021-01-10 13:18:31 info: 🟢 The database is connected.
+2021-01-10 13:20:01 info: 🚀 App listening on the port 3000
+2021-01-10 13:20:01 info: 🟢 The database is connected.
+2021-01-10 13:20:03 info: [0mGET /cats [32m200[0m 15.796 ms - 31[0m
+2021-01-10 13:20:04 info: [0mGET /cats [32m200[0m 5.483 ms - 31[0m
+2021-01-10 13:20:48 info: [0mGET /cats [32m200[0m 13.409 ms - 31[0m
+2021-01-10 13:21:51 info: 🚀 App listening on the port 3000
+2021-01-10 13:21:51 info: 🟢 The database is connected.
+2021-01-10 13:22:12 info: 🚀 App listening on the port 3000
+2021-01-10 13:22:12 info: 🟢 The database is connected.
+2021-01-10 13:23:08 info: 🚀 App listening on the port 3000
+2021-01-10 13:23:08 info: 🟢 The database is connected.
+2021-01-10 13:25:08 info: 🚀 App listening on the port 3000
+2021-01-10 13:25:08 info: 🟢 The database is connected.
+2021-01-10 13:25:26 info: 🚀 App listening on the port 3000
+2021-01-10 13:25:26 info: 🟢 The database is connected.
+2021-01-10 13:25:48 info: 🚀 App listening on the port 3000
+2021-01-10 13:25:48 info: 🟢 The database is connected.
+2021-01-10 13:25:51 info: [0mGET /cats [32m200[0m 23.141 ms - 31[0m
+2021-01-10 13:25:52 info: [0mGET /cats [32m200[0m 5.148 ms - 31[0m
+2021-01-10 13:33:40 info: 🚀 App listening on the port 3000
+2021-01-10 13:33:40 info: 🟢 The database is connected.
+2021-01-10 13:33:46 info: [0mGET /cats [32m200[0m 28.024 ms - 276[0m
+2021-01-10 13:35:50 info: 🚀 App listening on the port 3000
+2021-01-10 13:35:50 info: 🟢 The database is connected.
+2021-01-10 13:36:06 info: 🚀 App listening on the port 3000
+2021-01-10 13:36:06 info: 🟢 The database is connected.
+2021-01-10 13:36:25 info: [0mGET /cats [32m200[0m 25.029 ms - 276[0m
+2021-01-10 13:42:09 info: 🚀 App listening on the port 3000
+2021-01-10 13:42:09 info: 🟢 The database is connected.
+2021-01-10 13:44:07 info: 🚀 App listening on the port 3000
+2021-01-10 13:44:07 info: 🟢 The database is connected.
+2021-01-10 13:47:21 info: 🚀 App listening on the port 3000
+2021-01-10 13:47:21 info: 🟢 The database is connected.
+2021-01-10 13:53:24 info: 🚀 App listening on the port 3000
+2021-01-10 13:53:24 info: 🟢 The database is connected.
+2021-01-10 20:54:53 info: [0mGET /cats [32m200[0m 125.054 ms - -[0m
+2021-01-10 21:04:46 info: [0mGET /cats [36m304[0m 11.735 ms - -[0m
+2021-01-10 21:07:17 info: [0mGET /cats [36m304[0m 8.462 ms - -[0m
+2021-01-10 21:07:41 info: [0mGET /cats [36m304[0m 7.362 ms - -[0m
+2021-01-10 21:10:08 info: [0mGET /cats [36m304[0m 9.302 ms - -[0m
+2021-01-10 21:10:45 info: [0mGET /cats [36m304[0m 12.977 ms - -[0m
+2021-01-10 21:10:50 info: [0mGET /cats [36m304[0m 7.651 ms - -[0m
+2021-01-10 21:11:31 info: [0mGET /cats [36m304[0m 5.094 ms - -[0m
+2021-01-10 21:11:41 info: [0mGET /cats [36m304[0m 6.506 ms - -[0m
+2021-01-10 21:11:48 info: [0mGET /cats [32m200[0m 8.766 ms - -[0m
+2021-01-10 21:12:29 info: [0mGET /cats [32m200[0m 7.300 ms - -[0m
+2021-01-10 21:12:34 info: [0mGET /cats [32m200[0m 4.638 ms - -[0m
+2021-01-10 21:12:50 info: [0mGET /cats [36m304[0m 5.853 ms - -[0m
+2021-01-10 21:14:45 info: [0mGET /cats [32m200[0m 19.864 ms - -[0m
+2021-01-10 21:14:45 info: [0mGET /cats [32m200[0m 51.320 ms - -[0m
+2021-01-10 21:14:46 info: [0mGET /cats [36m304[0m 17.952 ms - -[0m
+2021-01-10 21:20:40 info: [0mGET /cats [36m304[0m 7.853 ms - -[0m
+2021-01-10 21:20:40 info: [0mGET /cats [36m304[0m 5.002 ms - -[0m
+2021-01-10 21:21:40 info: [0mGET /cats [36m304[0m 5.164 ms - -[0m
+2021-01-10 21:21:40 info: [0mGET /cats [32m200[0m 6.399 ms - -[0m
+2021-01-10 21:21:45 info: [0mGET /cats [32m200[0m 6.096 ms - -[0m
+2021-01-10 21:23:32 info: [0mGET /cats [32m200[0m 7.194 ms - -[0m
+2021-01-10 21:23:33 info: [0mGET /cats [36m304[0m 15.773 ms - -[0m
+2021-01-10 21:23:46 info: [0mGET /cats [36m304[0m 9.546 ms - -[0m
+2021-01-10 21:23:46 info: [0mGET /cats [32m200[0m 5.998 ms - -[0m
+2021-01-10 21:24:45 info: [0mGET /cats [32m200[0m 8.747 ms - -[0m
+2021-01-10 21:24:46 info: [0mGET /cats [36m304[0m 4.435 ms - -[0m
+2021-01-10 21:26:12 info: [0mGET /cats [36m304[0m 3.925 ms - -[0m
+2021-01-10 21:26:12 info: [0mGET /cats [32m200[0m 3.856 ms - -[0m
+2021-01-10 21:26:12 info: [0mGET /cats [36m304[0m 8.024 ms - -[0m
+2021-01-10 21:28:18 info: [0mGET /cats [32m200[0m 4.542 ms - -[0m
+2021-01-10 21:31:22 info: [0mGET /cats [32m200[0m 10.556 ms - -[0m
+2021-01-10 21:31:22 info: [0mGET /cats [32m200[0m 268.787 ms - -[0m
+2021-01-10 21:31:22 info: [0mGET /cats [36m304[0m 13.175 ms - -[0m
+2021-01-10 21:31:38 info: [0mGET /cats [32m200[0m 8.007 ms - -[0m
+2021-01-10 21:31:38 info: [0mGET /cats [32m200[0m 8.737 ms - -[0m
+2021-01-10 21:31:38 info: [0mGET /cats [36m304[0m 4.348 ms - -[0m
+2021-01-10 21:32:33 info: [0mGET /cats [32m200[0m 27.349 ms - -[0m
+2021-01-10 21:32:34 info: [0mGET /cats [32m200[0m 11.181 ms - -[0m
+2021-01-10 21:32:34 info: [0mGET /cats [36m304[0m 7.689 ms - -[0m
+2021-01-10 21:35:19 info: [0mGET /cats [32m200[0m 6.057 ms - -[0m
+2021-01-10 21:35:19 info: [0mGET /cats [36m304[0m 10.750 ms - -[0m
+2021-01-10 21:35:20 info: [0mGET /cats [32m200[0m 11.544 ms - -[0m
+2021-01-10 21:35:30 info: [0mGET /cats [32m200[0m 6.516 ms - -[0m
+2021-01-10 21:35:31 info: [0mGET /cats [32m200[0m 5.454 ms - -[0m
+2021-01-10 21:35:31 info: [0mGET /cats [36m304[0m 3.937 ms - -[0m
+2021-01-10 21:35:53 info: [0mGET /cats [32m200[0m 8.418 ms - -[0m
+2021-01-10 21:35:53 info: [0mGET /cats [36m304[0m 7.214 ms - -[0m
+2021-01-10 21:35:54 info: [0mGET /cats [32m200[0m 4.421 ms - -[0m
+2021-01-10 21:36:57 info: [0mGET /cats [36m304[0m 4.332 ms - -[0m
+2021-01-10 21:36:57 info: [0mGET /cats [32m200[0m 6.165 ms - -[0m
+2021-01-10 21:36:58 info: [0mGET /cats [32m200[0m 22.042 ms - -[0m
+2021-01-10 21:37:13 info: [0mGET /cats [32m200[0m 5.272 ms - -[0m
+2021-01-10 21:38:01 info: [0mGET /cats [32m200[0m 18.930 ms - -[0m
+2021-01-10 21:38:02 info: [0mGET /cats [36m304[0m 6.227 ms - -[0m
+2021-01-10 21:38:02 info: [0mGET /cats [36m304[0m 7.904 ms - -[0m
+2021-01-10 21:38:02 info: [0mGET /cats [32m200[0m 10.415 ms - -[0m
+2021-01-10 21:38:44 info: [0mGET /cats [32m200[0m 4.725 ms - -[0m
+2021-01-10 21:38:45 info: [0mGET /cats [32m200[0m 5.992 ms - -[0m
+2021-01-10 21:38:45 info: [0mGET /cats [36m304[0m 7.980 ms - -[0m
+2021-01-10 21:38:45 info: [0mGET /cats [36m304[0m 4.926 ms - -[0m
+2021-01-10 21:39:48 info: [0mGET /cats [36m304[0m 18.145 ms - -[0m
+2021-01-10 21:39:48 info: [0mGET /cats [32m200[0m 9.223 ms - -[0m
+2021-01-10 21:39:49 info: [0mGET /cats [32m200[0m 8.436 ms - -[0m
+2021-01-10 21:39:49 info: [0mGET /cats [36m304[0m 5.649 ms - -[0m
+2021-01-10 21:41:36 info: [0mGET /cats [32m200[0m 160.258 ms - -[0m
+2021-01-10 21:41:37 info: [0mGET /cats [32m200[0m 8.500 ms - -[0m
+2021-01-10 21:41:37 info: [0mGET /cats [32m200[0m 14.603 ms - -[0m
+2021-01-10 21:41:37 info: [0mGET /cats [36m304[0m 14.261 ms - -[0m
+2021-01-10 21:41:50 info: [0mGET /cats [36m304[0m 4.335 ms - -[0m
+2021-01-10 21:41:50 info: [0mGET /cats [32m200[0m 14.749 ms - -[0m
+2021-01-10 21:41:51 info: [0mGET /cats [32m200[0m 15.641 ms - -[0m
+2021-01-10 21:41:51 info: [0mGET /cats [32m200[0m 21.561 ms - -[0m
+2021-01-10 21:42:07 info: [0mGET /cats [32m200[0m 10.938 ms - -[0m
+2021-01-10 21:42:43 info: [0mGET /cats [32m200[0m 17.893 ms - -[0m
+2021-01-10 21:42:43 info: [0mGET /cats [36m304[0m 5.871 ms - -[0m
+2021-01-10 21:42:43 info: [0mGET /cats [32m200[0m 5.202 ms - -[0m
+2021-01-10 21:42:44 info: [0mGET /cats [32m200[0m 6.340 ms - -[0m
+2021-01-10 21:43:08 info: [0mGET /cats [32m200[0m 20.036 ms - -[0m
+2021-01-10 21:43:08 info: [0mGET /cats [32m200[0m 18.226 ms - -[0m
+2021-01-10 21:43:08 info: [0mGET /cats [32m200[0m 8.921 ms - -[0m
+2021-01-10 21:43:09 info: [0mGET /cats [36m304[0m 5.011 ms - -[0m
+2021-01-10 21:45:53 info: [0mGET /cats [32m200[0m 13.347 ms - -[0m
+2021-01-10 21:45:54 info: [0mGET /cats [32m200[0m 7.048 ms - -[0m
+2021-01-10 21:45:54 info: [0mGET /cats [32m200[0m 21.409 ms - -[0m
+2021-01-10 21:45:54 info: [0mGET /cats [36m304[0m 3.543 ms - -[0m
+2021-01-10 21:46:17 info: [0mGET /cats [36m304[0m 6.164 ms - -[0m
+2021-01-10 21:46:17 info: [0mGET /cats [32m200[0m 16.206 ms - -[0m
+2021-01-10 21:46:18 info: [0mGET /cats [32m200[0m 15.216 ms - -[0m
+2021-01-10 21:46:18 info: [0mGET /cats [32m200[0m 5.803 ms - -[0m
+2021-01-10 21:49:23 info: [0mGET /cats [36m304[0m 5.046 ms - -[0m
+2021-01-10 21:49:27 info: [0mGET /cats [36m304[0m 4.858 ms - -[0m
+2021-01-10 21:49:28 info: [0mGET /cats [36m304[0m 5.609 ms - -[0m
+2021-01-10 21:49:29 info: [0mGET /cats [36m304[0m 4.330 ms - -[0m
+2021-01-10 21:49:29 info: [0mGET /cats [36m304[0m 3.700 ms - -[0m
+2021-01-10 21:49:30 info: [0mGET /cats [36m304[0m 4.339 ms - -[0m
+2021-01-10 21:58:17 info: [0mGET /cats [32m200[0m 15.089 ms - -[0m
+2021-01-10 21:58:20 info: [0mGET /cats [32m200[0m 7.344 ms - -[0m
+2021-01-10 21:58:22 info: [0mGET /cats [32m200[0m 9.464 ms - -[0m
+2021-01-10 21:58:23 info: [0mGET /cats [32m200[0m 9.649 ms - -[0m
+2021-01-10 21:58:26 info: [0mGET /cats [32m200[0m 17.463 ms - -[0m
+2021-01-10 21:59:03 info: [0mGET /cats [32m200[0m 9.443 ms - -[0m
+2021-01-10 21:59:04 info: [0mGET /cats [36m304[0m 14.068 ms - -[0m
+2021-01-10 21:59:04 info: [0mGET /cats [32m200[0m 6.179 ms - -[0m
+2021-01-10 21:59:04 info: [0mGET /cats [32m200[0m 7.134 ms - -[0m
+2021-01-10 21:59:57 info: [0mGET /cats [32m200[0m 6.577 ms - -[0m
+2021-01-10 21:59:57 info: [0mGET /cats [32m200[0m 6.520 ms - -[0m
+2021-01-10 21:59:57 info: [0mGET /cats [36m304[0m 6.574 ms - -[0m
+2021-01-10 21:59:57 info: [0mGET /cats [32m200[0m 7.205 ms - -[0m
+2021-01-10 22:00:25 info: [0mGET /cats [32m200[0m 17.666 ms - -[0m
+2021-01-10 22:00:26 info: [0mGET /cats [32m200[0m 6.522 ms - -[0m
+2021-01-10 22:00:26 info: [0mGET /cats [36m304[0m 7.187 ms - -[0m
+2021-01-10 22:00:26 info: [0mGET /cats [32m200[0m 6.231 ms - -[0m
+2021-01-10 22:00:53 info: [0mGET /cats [32m200[0m 6.958 ms - -[0m
+2021-01-10 22:00:53 info: [0mGET /cats [32m200[0m 6.340 ms - -[0m
+2021-01-10 22:00:54 info: [0mGET /cats [32m200[0m 4.057 ms - -[0m
+2021-01-10 22:00:54 info: [0mGET /cats [36m304[0m 4.495 ms - -[0m
+2021-01-10 22:01:08 info: [0mGET /cats [32m200[0m 8.106 ms - -[0m
+2021-01-10 22:01:08 info: [0mGET /cats [32m200[0m 5.147 ms - -[0m
+2021-01-10 22:01:08 info: [0mGET /cats [36m304[0m 8.234 ms - -[0m
+2021-01-10 22:01:09 info: [0mGET /cats [32m200[0m 5.596 ms - -[0m
+2021-01-10 22:02:13 info: [0mGET /cats [32m200[0m 9.204 ms - -[0m
+2021-01-10 22:02:14 info: [0mGET /cats [32m200[0m 7.374 ms - -[0m
+2021-01-10 22:02:14 info: [0mGET /cats [32m200[0m 16.022 ms - -[0m
+2021-01-10 22:02:14 info: [0mGET /cats [36m304[0m 6.378 ms - -[0m
+2021-01-10 22:02:24 info: [0mGET /cats [32m200[0m 7.361 ms - -[0m
+2021-01-10 22:02:24 info: [0mGET /cats [32m200[0m 18.417 ms - -[0m
+2021-01-10 22:02:25 info: [0mGET /cats [36m304[0m 6.704 ms - -[0m
+2021-01-10 22:02:25 info: [0mGET /cats [32m200[0m 5.505 ms - -[0m
+2021-01-10 22:02:44 info: [0mGET /cats [32m200[0m 8.681 ms - -[0m
+2021-01-10 22:02:45 info: [0mGET /cats [32m200[0m 5.553 ms - -[0m
+2021-01-10 22:02:45 info: [0mGET /cats [36m304[0m 5.517 ms - -[0m
+2021-01-10 22:02:45 info: [0mGET /cats [32m200[0m 4.104 ms - -[0m
+2021-01-10 22:03:03 info: [0mGET /cats [32m200[0m 6.523 ms - -[0m
+2021-01-10 22:03:03 info: [0mGET /cats [32m200[0m 6.942 ms - -[0m
+2021-01-10 22:03:04 info: [0mGET /cats [32m200[0m 5.019 ms - -[0m
+2021-01-10 22:03:04 info: [0mGET /cats [36m304[0m 36.212 ms - -[0m
+2021-01-10 22:03:06 info: [0mGET /cats [32m200[0m 14.610 ms - -[0m
+2021-01-10 22:03:06 info: [0mGET /cats [32m200[0m 20.211 ms - -[0m
+2021-01-10 22:03:09 info: [0mGET /cats [32m200[0m 5.424 ms - -[0m
+2021-01-10 22:03:35 info: [0mGET /cats [32m200[0m 5.266 ms - -[0m
+2021-01-10 22:03:35 info: [0mGET /cats [32m200[0m 31.560 ms - -[0m
+2021-01-10 22:03:35 info: [0mGET /cats [32m200[0m 4.994 ms - -[0m
+2021-01-10 22:03:36 info: [0mGET /cats [36m304[0m 5.266 ms - -[0m
+2021-01-10 22:17:01 info: [0mGET /cats [32m200[0m 11.096 ms - -[0m
+2021-01-10 22:17:02 info: [0mGET /cats [32m200[0m 6.465 ms - -[0m
+2021-01-10 22:17:02 info: [0mGET /cats [32m200[0m 25.376 ms - -[0m
+2021-01-10 22:17:03 info: [0mGET /cats [36m304[0m 7.542 ms - -[0m
+2021-01-10 22:17:16 info: [0mGET /cats [32m200[0m 5.908 ms - -[0m
+2021-01-10 22:17:16 info: [0mGET /cats [32m200[0m 12.662 ms - -[0m
+2021-01-10 22:17:16 info: [0mGET /cats [32m200[0m 5.186 ms - -[0m
+2021-01-10 22:17:17 info: [0mGET /cats [36m304[0m 5.136 ms - -[0m
+2021-01-10 22:18:17 info: [0mGET /cats [32m200[0m 4.643 ms - -[0m
+2021-01-10 22:18:18 info: [0mGET /cats [32m200[0m 4.850 ms - -[0m
+2021-01-10 22:18:18 info: [0mGET /cats [36m304[0m 4.925 ms - -[0m
+2021-01-10 22:18:18 info: [0mGET /cats [32m200[0m 4.977 ms - -[0m
+2021-01-10 22:18:57 info: [0mGET /cats [32m200[0m 7.914 ms - -[0m
+2021-01-10 22:18:57 info: [0mGET /cats [32m200[0m 7.047 ms - -[0m
+2021-01-10 22:18:58 info: [0mGET /cats [32m200[0m 5.489 ms - -[0m
+2021-01-10 22:18:58 info: [0mGET /cats [36m304[0m 7.832 ms - -[0m
+2021-01-10 22:19:10 info: [0mGET /cats [32m200[0m 5.362 ms - -[0m
+2021-01-10 22:19:10 info: [0mGET /cats [32m200[0m 4.954 ms - -[0m
+2021-01-10 22:19:10 info: [0mGET /cats [32m200[0m 5.890 ms - -[0m
+2021-01-10 22:19:10 info: [0mGET /cats [36m304[0m 3.726 ms - -[0m
+2021-01-10 22:19:32 info: [0mGET /cats [36m304[0m 5.285 ms - -[0m
+2021-01-10 22:19:32 info: [0mGET /cats [32m200[0m 4.355 ms - -[0m
+2021-01-10 22:19:33 info: [0mGET /cats [32m200[0m 5.617 ms - -[0m
+2021-01-10 22:19:33 info: [0mGET /cats [32m200[0m 10.786 ms - -[0m
+2021-01-10 22:19:40 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:19:40 info: [0mGET /cats/NaN [31m500[0m 23.072 ms - 89[0m
+2021-01-10 22:21:03 info: [0mGET /cats [32m200[0m 5.235 ms - -[0m
+2021-01-10 22:21:04 info: [0mGET /cats [36m304[0m 7.553 ms - -[0m
+2021-01-10 22:21:04 info: [0mGET /cats [36m304[0m 3.381 ms - -[0m
+2021-01-10 22:21:04 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:21:04 info: [0mGET /cats/NaN [31m500[0m 7.562 ms - 89[0m
+2021-01-10 22:21:04 info: [0mGET /cats [32m200[0m 4.602 ms - -[0m
+2021-01-10 22:24:44 info: [0mGET /cats [36m304[0m 5.583 ms - -[0m
+2021-01-10 22:24:44 info: [0mGET /cats [32m200[0m 9.942 ms - -[0m
+2021-01-10 22:24:44 info: [0mGET /cats [36m304[0m 9.122 ms - -[0m
+2021-01-10 22:24:44 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:24:44 info: [0mGET /cats/NaN [31m500[0m 2.777 ms - 89[0m
+2021-01-10 22:24:44 info: [0mGET /cats [32m200[0m 3.939 ms - -[0m
+2021-01-10 22:24:49 info: [0mGET /cats [36m304[0m 8.426 ms - -[0m
+2021-01-10 22:24:49 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:24:49 info: [0mGET /cats/NaN [31m500[0m 7.119 ms - 89[0m
+2021-01-10 22:24:58 info: [0mGET /cats [32m200[0m 6.089 ms - -[0m
+2021-01-10 22:25:00 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:25:00 info: [0mGET /cats/NaN [31m500[0m 1.832 ms - 89[0m
+2021-01-10 22:27:24 info: [0mGET /cats [32m200[0m 6.234 ms - -[0m
+2021-01-10 22:27:24 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:27:24 info: [0mGET /cats/NaN [31m500[0m 2.818 ms - 89[0m
+2021-01-10 22:28:26 info: [0mGET /cats [32m200[0m 7.797 ms - -[0m
+2021-01-10 22:28:26 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:28:26 info: [0mGET /cats/NaN [31m500[0m 4.688 ms - 89[0m
+2021-01-10 22:28:27 info: [0mGET /cats [32m200[0m 11.170 ms - -[0m
+2021-01-10 22:28:27 info: [0mGET /cats [36m304[0m 4.681 ms - -[0m
+2021-01-10 22:28:27 info: [0mGET /cats [36m304[0m 6.432 ms - -[0m
+2021-01-10 22:28:27 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:28:27 info: [0mGET /cats/NaN [31m500[0m 3.329 ms - 89[0m
+2021-01-10 22:28:29 info: [0mGET /cats [32m200[0m 6.221 ms - -[0m
+2021-01-10 22:28:29 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:28:29 info: [0mGET /cats/NaN [31m500[0m 3.024 ms - 89[0m
+2021-01-10 22:30:59 info: [0mGET /cats [36m304[0m 3.903 ms - -[0m
+2021-01-10 22:30:59 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:30:59 info: [0mGET /cats/NaN [31m500[0m 3.556 ms - 89[0m
+2021-01-10 22:30:59 info: [0mGET /cats [32m200[0m 4.978 ms - -[0m
+2021-01-10 22:30:59 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:30:59 info: [0mGET /cats/NaN [31m500[0m 4.201 ms - 89[0m
+2021-01-10 22:30:59 info: [0mGET /cats [36m304[0m 7.248 ms - -[0m
+2021-01-10 22:31:00 info: [0mGET /cats [32m200[0m 3.846 ms - -[0m
+2021-01-10 22:31:04 info: [0mGET /cats [36m304[0m 3.781 ms - -[0m
+2021-01-10 22:31:10 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:31:10 info: [0mGET /cats/NaN [31m500[0m 8.610 ms - 89[0m
+2021-01-10 22:31:47 info: [0mGET /cats/5ffb06d4ac79f300c57cb3ba [32m200[0m 11.606 ms - 217[0m
+2021-01-10 22:32:43 info: [0mGET /cats [36m304[0m 4.897 ms - -[0m
+2021-01-10 22:32:43 info: [0mGET /cats [36m304[0m 8.605 ms - -[0m
+2021-01-10 22:32:43 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:32:43 info: [0mGET /cats/NaN [31m500[0m 2.277 ms - 89[0m
+2021-01-10 22:32:43 info: [0mGET /cats [32m200[0m 13.975 ms - -[0m
+2021-01-10 22:32:44 info: [0mGET /cats [36m304[0m 5.477 ms - -[0m
+2021-01-10 22:32:44 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:32:44 info: [0mGET /cats/NaN [31m500[0m 3.323 ms - 89[0m
+2021-01-10 22:32:44 info: [0mGET /cats [32m200[0m 4.338 ms - -[0m
+2021-01-10 22:32:44 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:32:44 info: [0mGET /cats/NaN [31m500[0m 3.151 ms - 89[0m
+2021-01-10 22:32:48 info: [0mGET /cats [36m304[0m 21.766 ms - -[0m
+2021-01-10 22:32:48 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:32:48 info: [0mGET /cats/NaN [31m500[0m 3.365 ms - 89[0m
+2021-01-10 22:32:49 info: [0mGET /cats [36m304[0m 6.497 ms - -[0m
+2021-01-10 22:32:49 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:32:49 info: [0mGET /cats/NaN [31m500[0m 2.527 ms - 89[0m
+2021-01-10 22:32:49 info: [0mGET /cats [32m200[0m 20.253 ms - -[0m
+2021-01-10 22:32:49 info: [0mGET /cats [32m200[0m 7.032 ms - -[0m
+2021-01-10 22:32:49 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:32:49 info: [0mGET /cats/NaN [31m500[0m 3.307 ms - 89[0m
+2021-01-10 22:32:50 info: [0mGET /cats [36m304[0m 4.253 ms - -[0m
+2021-01-10 22:35:52 info: [0mGET /cats [32m200[0m 16.908 ms - -[0m
+2021-01-10 22:35:52 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:35:52 info: [0mGET /cats/NaN [31m500[0m 3.505 ms - 89[0m
+2021-01-10 22:35:52 info: [0mGET /cats [36m304[0m 4.371 ms - -[0m
+2021-01-10 22:35:52 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:35:52 info: [0mGET /cats/NaN [31m500[0m 2.243 ms - 89[0m
+2021-01-10 22:35:52 info: [0mGET /cats [32m200[0m 7.448 ms - -[0m
+2021-01-10 22:35:53 info: [0mGET /cats [32m200[0m 7.849 ms - -[0m
+2021-01-10 22:35:53 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:35:53 info: [0mGET /cats/NaN [31m500[0m 16.049 ms - 89[0m
+2021-01-10 22:35:53 info: [0mGET /cats [36m304[0m 4.446 ms - -[0m
+2021-01-10 22:36:00 info: [0mGET /cats [32m200[0m 14.630 ms - -[0m
+2021-01-10 22:36:00 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:36:00 info: [0mGET /cats/NaN [31m500[0m 2.662 ms - 89[0m
+2021-01-10 22:36:00 info: [0mGET /cats [36m304[0m 4.281 ms - -[0m
+2021-01-10 22:36:00 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:36:00 info: [0mGET /cats/NaN [31m500[0m 3.530 ms - 89[0m
+2021-01-10 22:36:00 info: [0mGET /cats [32m200[0m 7.718 ms - -[0m
+2021-01-10 22:36:00 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:36:00 info: [0mGET /cats/NaN [31m500[0m 3.885 ms - 89[0m
+2021-01-10 22:36:01 info: [0mGET /cats [32m200[0m 5.038 ms - -[0m
+2021-01-10 22:36:01 info: [0mGET /cats [36m304[0m 6.517 ms - -[0m
+2021-01-10 22:41:14 info: [0mGET /cats [32m200[0m 3.543 ms - -[0m
+2021-01-10 22:41:14 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:41:14 info: [0mGET /cats/NaN [31m500[0m 2.852 ms - 89[0m
+2021-01-10 22:41:14 info: [0mGET /cats [32m200[0m 5.473 ms - -[0m
+2021-01-10 22:41:15 info: [0mGET /cats [32m200[0m 5.439 ms - -[0m
+2021-01-10 22:41:15 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:41:15 info: [0mGET /cats/NaN [31m500[0m 2.714 ms - 89[0m
+2021-01-10 22:41:15 info: [0mGET /cats [36m304[0m 4.449 ms - -[0m
+2021-01-10 22:41:15 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:41:15 info: [0mGET /cats/NaN [31m500[0m 3.211 ms - 89[0m
+2021-01-10 22:41:15 info: [0mGET /cats [36m304[0m 3.666 ms - -[0m
+2021-01-10 22:41:57 info: [0mGET /cats [36m304[0m 5.546 ms - -[0m
+2021-01-10 22:41:57 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bf [32m200[0m 7.040 ms - 206[0m
+2021-01-10 22:41:57 info: [0mGET /cats [32m200[0m 7.495 ms - -[0m
+2021-01-10 22:41:57 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bc [32m200[0m 16.380 ms - 216[0m
+2021-01-10 22:41:58 info: [0mGET /cats [36m304[0m 4.878 ms - -[0m
+2021-01-10 22:41:58 info: [0mGET /cats [32m200[0m 7.098 ms - -[0m
+2021-01-10 22:41:59 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bb [32m200[0m 4.921 ms - 241[0m
+2021-01-10 22:41:59 info: [0mGET /cats [32m200[0m 5.137 ms - -[0m
+2021-01-10 22:42:38 info: [0mGET /cats [32m200[0m 8.563 ms - -[0m
+2021-01-10 22:42:40 info: [0mGET /cats/5ffb06d4ac79f300c57cb3ba [32m200[0m 4.735 ms - 217[0m
+2021-01-10 22:47:33 info: [0mGET /cats [32m200[0m 16.504 ms - -[0m
+2021-01-10 22:47:33 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bc [32m200[0m 40.014 ms - 216[0m
+2021-01-10 22:47:33 info: [0mGET /cats [32m200[0m 6.052 ms - -[0m
+2021-01-10 22:47:33 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bd [32m200[0m 6.064 ms - 269[0m
+2021-01-10 22:47:34 info: [0mGET /cats [32m200[0m 5.045 ms - -[0m
+2021-01-10 22:47:34 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bb [32m200[0m 8.146 ms - 241[0m
+2021-01-10 22:47:35 info: [0mGET /cats [32m200[0m 7.612 ms - -[0m
+2021-01-10 22:47:35 info: [0mGET /cats [36m304[0m 4.499 ms - -[0m
+2021-01-10 22:47:35 info: [0mGET /cats [36m304[0m 4.296 ms - -[0m
+2021-01-10 22:47:35 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bf [36m304[0m 6.110 ms - -[0m
+2021-01-10 22:47:39 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bd [32m200[0m 4.048 ms - 269[0m
+2021-01-10 22:47:40 info: [0mGET /cats/5ffb06d4ac79f300c57cb3be [32m200[0m 6.025 ms - 216[0m
+2021-01-10 22:47:42 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bf [32m200[0m 4.776 ms - 206[0m
+2021-01-10 22:47:44 info: [0mGET /cats/5ffb06d4ac79f300c57cb3be [32m200[0m 4.493 ms - 216[0m
+2021-01-10 22:47:45 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bb [32m200[0m 6.797 ms - 241[0m
+2021-01-10 22:47:46 info: [0mGET /cats/5ffb06d4ac79f300c57cb3ba [32m200[0m 3.799 ms - 217[0m
+2021-01-10 22:47:48 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bb [32m200[0m 4.832 ms - 241[0m
+2021-01-10 22:47:48 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bc [32m200[0m 4.895 ms - 216[0m
+2021-01-10 22:47:49 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bd [32m200[0m 4.756 ms - 269[0m
+2021-01-10 22:47:51 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bf [32m200[0m 6.139 ms - 206[0m
+2021-01-10 22:47:53 info: [0mGET /cats/5ffb06d4ac79f300c57cb3be [32m200[0m 7.727 ms - 216[0m
+2021-01-10 22:48:02 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bb [32m200[0m 4.273 ms - 241[0m
+2021-01-10 22:48:03 info: [0mGET /cats/5ffb06d4ac79f300c57cb3ba [32m200[0m 5.055 ms - 217[0m
+2021-01-10 22:48:05 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bb [32m200[0m 4.255 ms - 241[0m
+2021-01-10 22:48:07 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bc [32m200[0m 6.519 ms - 216[0m
+2021-01-10 22:48:10 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bd [32m200[0m 6.435 ms - 269[0m
+2021-01-10 22:48:13 info: [0mGET /cats/5ffb06d4ac79f300c57cb3be [32m200[0m 3.898 ms - 216[0m
+2021-01-10 22:48:22 info: [0mGET /cats/5ffb06d4ac79f300c57cb3ba [32m200[0m 4.327 ms - 217[0m
+2021-01-10 22:48:22 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bb [32m200[0m 3.915 ms - 241[0m
+2021-01-10 22:48:23 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bc [32m200[0m 4.975 ms - 216[0m
+2021-01-10 22:51:53 info: 🚀 App listening on the port 3000
+2021-01-10 22:51:53 info: 🟢 The database is connected.
+2021-01-10 22:52:00 info: [0mGET /cats [32m200[0m 52.886 ms - -[0m
+2021-01-10 22:52:00 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bd [32m200[0m 19.480 ms - 269[0m
+2021-01-10 22:52:03 info: [0mGET /cats [32m200[0m 21.771 ms - -[0m
+2021-01-10 22:52:03 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bd [32m200[0m 17.862 ms - 269[0m
+2021-01-10 22:54:35 info: 🚀 App listening on the port 3000
+2021-01-10 22:54:35 info: 🟢 The database is connected.
+2021-01-10 23:02:03 info: 🚀 App listening on the port 3000
+2021-01-10 23:02:03 info: 🟢 The database is connected.
+2021-01-10 23:02:25 info: [0mGET /cats [32m200[0m 27.469 ms - -[0m
+2021-01-10 23:03:15 info: [0mGET /cats [32m200[0m 23.514 ms - -[0m
+2021-01-10 23:03:15 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:03:15 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bd [33m409[0m 40.257 ms - 28[0m
+2021-01-10 23:03:22 info: [0mGET /cats/5ffb876b740caf0025369843 [32m200[0m 5.264 ms - 217[0m
+2021-01-10 23:03:25 info: [0mGET /cats/5ffb876b740caf0025369844 [32m200[0m 5.546 ms - 241[0m
+2021-01-10 23:03:26 info: [0mGET /cats/5ffb876b740caf0025369845 [32m200[0m 6.601 ms - 216[0m
+2021-01-10 23:03:28 info: [0mGET /cats/5ffb876b740caf0025369846 [32m200[0m 5.282 ms - 269[0m
+2021-01-10 23:03:33 info: [0mGET /cats/5ffb876b740caf0025369847 [32m200[0m 4.430 ms - 216[0m
+2021-01-10 23:03:36 info: [0mGET /cats/5ffb876b740caf0025369846 [32m200[0m 11.653 ms - 269[0m
+2021-01-10 23:03:38 info: [0mGET /cats/5ffb876b740caf0025369848 [32m200[0m 8.007 ms - 206[0m
+2021-01-10 23:03:41 info: [0mGET /cats/5ffb876b740caf0025369849 [32m200[0m 8.352 ms - 207[0m
+2021-01-10 23:03:42 info: [0mGET /cats/5ffb876b740caf002536984a [32m200[0m 5.260 ms - 222[0m
+2021-01-10 23:03:44 info: [0mGET /cats/5ffb876b740caf0025369849 [32m200[0m 5.457 ms - 207[0m
+2021-01-10 23:03:45 info: [0mGET /cats/5ffb876b740caf0025369848 [32m200[0m 4.330 ms - 206[0m
+2021-01-10 23:03:47 info: [0mGET /cats/5ffb876b740caf0025369847 [32m200[0m 4.234 ms - 216[0m
+2021-01-10 23:03:49 info: [0mGET /cats/5ffb876b740caf0025369846 [32m200[0m 5.859 ms - 269[0m
+2021-01-10 23:03:52 info: [0mGET /cats/5ffb876b740caf0025369847 [32m200[0m 6.078 ms - 216[0m
+2021-01-10 23:03:54 info: [0mGET /cats/5ffb876b740caf0025369846 [32m200[0m 5.773 ms - 269[0m
+2021-01-10 23:03:56 info: [0mGET /cats/5ffb876b740caf0025369845 [32m200[0m 5.890 ms - 216[0m
+2021-01-10 23:03:57 info: [0mGET /cats/5ffb876b740caf0025369846 [32m200[0m 5.586 ms - 269[0m
+2021-01-10 23:03:59 info: [0mGET /cats/5ffb876b740caf0025369847 [32m200[0m 5.329 ms - 216[0m
+2021-01-10 23:04:00 info: [0mGET /cats/5ffb876b740caf0025369846 [32m200[0m 4.120 ms - 269[0m
+2021-01-10 23:04:03 info: [0mGET /cats/5ffb876b740caf0025369847 [32m200[0m 8.023 ms - 216[0m
+2021-01-10 23:04:04 info: [0mGET /cats/5ffb876b740caf0025369844 [32m200[0m 7.095 ms - 241[0m
+2021-01-10 23:04:08 info: [0mGET /cats/5ffb876b740caf0025369846 [32m200[0m 5.530 ms - 269[0m
+2021-01-10 23:04:10 info: [0mGET /cats/5ffb876b740caf0025369847 [32m200[0m 6.028 ms - 216[0m
+2021-01-10 23:05:04 info: 🚀 App listening on the port 3000
+2021-01-10 23:05:04 info: 🟢 The database is connected.
+2021-01-10 23:05:14 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:05:14 info: [0mGET /cats/5ffb876b740caf0025369846 [33m409[0m 33.429 ms - 28[0m
+2021-01-10 23:05:16 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:05:16 info: [0mGET /cats/5ffb876b740caf0025369845 [33m409[0m 13.132 ms - 28[0m
+2021-01-10 23:05:18 info: [0mGET /cats [32m200[0m 66.380 ms - -[0m
+2021-01-10 23:05:18 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:05:18 info: [0mGET /cats/5ffb876b740caf0025369845 [33m409[0m 23.088 ms - 28[0m
+2021-01-10 23:05:21 info: [0mGET /cats [32m200[0m 18.037 ms - -[0m
+2021-01-10 23:05:21 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:05:21 info: [0mGET /cats/5ffb876b740caf0025369845 [33m409[0m 19.035 ms - 28[0m
+2021-01-10 23:05:23 info: [0mGET /cats/5ffb882023355800353e784f [32m200[0m 6.678 ms - 216[0m
+2021-01-10 23:05:25 info: [0mGET /cats/5ffb882023355800353e7850 [32m200[0m 6.144 ms - 269[0m
+2021-01-10 23:05:26 info: [0mGET /cats/5ffb882023355800353e7851 [32m200[0m 5.840 ms - 208[0m
+2021-01-10 23:05:28 info: [0mGET /cats/5ffb882023355800353e7852 [32m200[0m 8.253 ms - 206[0m
+2021-01-10 23:05:31 info: [0mGET /cats/5ffb882023355800353e7851 [32m200[0m 5.926 ms - 208[0m
+2021-01-10 23:05:33 info: [0mGET /cats/5ffb882023355800353e7853 [32m200[0m 4.999 ms - 207[0m
+2021-01-10 23:05:35 info: [0mGET /cats/5ffb882023355800353e7854 [32m200[0m 6.517 ms - 222[0m
+2021-01-10 23:12:06 info: [0mGET /cats [32m200[0m 33.877 ms - -[0m
+2021-01-10 23:12:06 info: [0mGET /cats/5ffb882023355800353e7854 [32m200[0m 17.732 ms - 222[0m
+2021-01-10 23:12:07 info: [0mGET /cats [32m200[0m 18.674 ms - -[0m
+2021-01-10 23:12:07 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:12:07 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bc [33m409[0m 30.546 ms - 28[0m
+2021-01-10 23:12:07 info: [0mGET /cats [36m304[0m 10.940 ms - -[0m
+2021-01-10 23:12:08 info: [0mGET /cats [32m200[0m 20.231 ms - -[0m
+2021-01-10 23:12:08 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:12:08 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bb [33m409[0m 35.422 ms - 28[0m
+2021-01-10 23:12:08 info: [0mGET /cats [36m304[0m 4.215 ms - -[0m
+2021-01-10 23:12:08 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:12:08 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bf [33m409[0m 8.267 ms - 28[0m
+2021-01-10 23:12:09 info: [0mGET /cats [32m200[0m 9.822 ms - -[0m
+2021-01-10 23:12:28 info: [0mGET /cats [32m200[0m 11.798 ms - -[0m
+2021-01-10 23:12:28 info: [0mGET /cats/5ffb882023355800353e7854 [32m200[0m 78.492 ms - 222[0m
+2021-01-10 23:12:28 info: [0mGET /cats [32m200[0m 11.313 ms - -[0m
+2021-01-10 23:12:28 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:12:28 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bc [33m409[0m 17.875 ms - 28[0m
+2021-01-10 23:12:29 info: [0mGET /cats [32m200[0m 9.410 ms - -[0m
+2021-01-10 23:12:29 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:12:29 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bb [33m409[0m 34.570 ms - 28[0m
+2021-01-10 23:12:30 info: [0mGET /cats [36m304[0m 5.332 ms - -[0m
+2021-01-10 23:12:30 info: [0mGET /cats [32m200[0m 9.238 ms - -[0m
+2021-01-10 23:12:30 info: [0mGET /cats [36m304[0m 9.859 ms - -[0m
+2021-01-10 23:12:30 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:12:30 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bf [33m409[0m 5.926 ms - 28[0m
+2021-01-10 23:12:36 info: [0mGET /cats/5ffb882023355800353e784e [32m200[0m 4.928 ms - 241[0m
+2021-01-10 23:12:41 info: [0mGET /cats/5ffb882023355800353e7850 [32m200[0m 6.681 ms - 269[0m
+2021-01-10 23:14:45 info: [0mGET /cats [32m200[0m 17.955 ms - -[0m
+2021-01-10 23:14:45 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:14:45 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bc [33m409[0m 10.017 ms - 28[0m
+2021-01-10 23:14:45 info: [0mGET /cats [32m200[0m 30.668 ms - -[0m
+2021-01-10 23:14:45 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:14:45 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bb [33m409[0m 13.755 ms - 28[0m
+2021-01-10 23:14:45 info: [0mGET /cats [32m200[0m 14.313 ms - -[0m
+2021-01-10 23:14:46 info: [0mGET /cats/5ffb882023355800353e7850 [32m200[0m 18.420 ms - 269[0m
+2021-01-10 23:14:46 info: [0mGET /cats [36m304[0m 21.877 ms - -[0m
+2021-01-10 23:14:46 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:14:46 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bf [33m409[0m 19.859 ms - 28[0m
+2021-01-10 23:14:46 info: [0mGET /cats [32m200[0m 26.825 ms - -[0m
+2021-01-10 23:14:46 info: [0mGET /cats [36m304[0m 24.372 ms - -[0m
+2021-01-10 23:14:55 info: [0mGET /cats [32m200[0m 15.528 ms - -[0m
+2021-01-10 23:14:55 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:14:55 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bb [33m409[0m 39.068 ms - 28[0m
+2021-01-10 23:15:06 info: [0mGET /cats [32m200[0m 7.062 ms - -[0m
+2021-01-10 23:15:31 info: [0mGET /cats [36m304[0m 22.650 ms - -[0m
+2021-01-10 23:15:31 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:15:31 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bf [33m409[0m 32.346 ms - 28[0m
+2021-01-10 23:15:31 info: [0mGET /cats [32m200[0m 6.849 ms - -[0m
+2021-01-10 23:15:31 info: [0mGET /cats [32m200[0m 20.311 ms - -[0m
+2021-01-10 23:15:31 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:15:31 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bb [33m409[0m 24.135 ms - 28[0m
+2021-01-10 23:15:32 info: [0mGET /cats [32m200[0m 15.727 ms - -[0m
+2021-01-10 23:15:32 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:15:32 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bc [33m409[0m 17.400 ms - 28[0m
+2021-01-10 23:15:32 info: [0mGET /cats [32m200[0m 19.971 ms - -[0m
+2021-01-10 23:15:32 info: [0mGET /cats/5ffb882023355800353e7850 [32m200[0m 20.080 ms - 269[0m
+2021-01-10 23:15:34 info: [0mGET /cats/5ffb882023355800353e784e [32m200[0m 7.112 ms - 241[0m
+2021-01-10 23:15:40 info: [0mGET /cats/5ffb882023355800353e784f [32m200[0m 5.466 ms - 216[0m
+2021-01-10 23:15:42 info: [0mGET /cats/5ffb882023355800353e7850 [32m200[0m 4.820 ms - 269[0m
+2021-01-10 23:15:43 info: [0mGET /cats/5ffb882023355800353e7851 [32m200[0m 4.914 ms - 208[0m
+2021-01-10 23:15:50 info: [0mGET /cats/5ffb882023355800353e784e [32m200[0m 2.418 ms - 241[0m
+2021-01-10 23:15:52 info: [0mGET /cats/5ffb882023355800353e7850 [32m200[0m 4.937 ms - 269[0m
+2021-01-10 23:19:00 info: [0mGET /cats [36m304[0m 16.037 ms - -[0m
+2021-01-10 23:19:00 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:19:00 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bf [33m409[0m 43.635 ms - 28[0m
+2021-01-10 23:19:01 info: [0mGET /cats/5ffb882023355800353e7850 [32m200[0m 40.320 ms - 269[0m
+2021-01-10 23:19:01 info: [0mGET /cats [32m200[0m 22.169 ms - -[0m
+2021-01-10 23:19:01 info: [0mGET /cats [32m200[0m 16.538 ms - -[0m
+2021-01-10 23:19:01 info: [0mGET /cats [32m200[0m 17.590 ms - -[0m
+2021-01-10 23:19:02 info: [0mGET /cats/5ffb882023355800353e7850 [32m200[0m 29.611 ms - 269[0m
+2021-01-10 23:19:02 info: [0mGET /cats [32m200[0m 7.436 ms - -[0m
+2021-01-10 23:19:02 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:19:02 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bc [33m409[0m 6.522 ms - 28[0m
+2021-01-10 23:19:37 info: [0mGET /cats [32m200[0m 22.817 ms - -[0m
+2021-01-10 23:23:46 info: [0mGET /cats [32m200[0m 17.272 ms - -[0m
+2021-01-10 23:23:46 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:23:46 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bc [33m409[0m 6.421 ms - 28[0m
+2021-01-10 23:23:46 info: [0mGET /cats [32m200[0m 8.237 ms - -[0m
+2021-01-10 23:23:47 info: [0mGET /cats [36m304[0m 36.770 ms - -[0m
+2021-01-10 23:23:47 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:23:47 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bf [33m409[0m 24.406 ms - 28[0m
+2021-01-10 23:23:47 info: [0mGET /cats [32m200[0m 46.667 ms - -[0m
+2021-01-10 23:23:47 info: [0mGET /cats/5ffb882023355800353e7850 [32m200[0m 19.798 ms - 269[0m
+2021-01-10 23:23:47 info: [0mGET /cats [32m200[0m 17.420 ms - -[0m
+2021-01-10 23:24:33 info: [0mGET /cats [32m200[0m 34.148 ms - -[0m
+2021-01-10 23:24:33 info: [0mGET /cats [32m200[0m 16.635 ms - -[0m
+2021-01-10 23:24:33 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:24:33 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bf [33m409[0m 31.882 ms - 28[0m
+2021-01-10 23:24:33 info: [0mGET /cats [36m304[0m 35.261 ms - -[0m
+2021-01-10 23:24:35 info: [0mGET /cats [32m200[0m 12.518 ms - -[0m
+2021-01-10 23:24:35 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:24:35 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bc [33m409[0m 18.573 ms - 28[0m
+2021-01-10 23:24:35 info: [0mGET /cats/5ffb882023355800353e7850 [32m200[0m 4.486 ms - 269[0m
+2021-01-10 23:24:35 info: [0mGET /cats [32m200[0m 20.944 ms - -[0m
+2021-01-10 23:24:37 info: [0mGET /cats/5ffb882023355800353e784e [32m200[0m 4.874 ms - 241[0m
+2021-01-10 23:24:43 info: [0mGET /cats/5ffb882023355800353e784f [32m200[0m 4.401 ms - 216[0m
+2021-01-10 23:24:49 info: [0mGET /cats/5ffb882023355800353e784e [32m200[0m 4.683 ms - 241[0m
+2021-01-10 23:24:54 info: [0mGET /cats/5ffb882023355800353e784f [32m200[0m 3.108 ms - 216[0m
+2021-01-10 23:24:56 info: [0mGET /cats/5ffb882023355800353e7850 [32m200[0m 10.024 ms - 269[0m
+2021-01-10 23:24:58 info: [0mGET /cats/5ffb882023355800353e7851 [32m200[0m 3.032 ms - 208[0m
+2021-01-10 23:25:00 info: [0mGET /cats/5ffb882023355800353e7852 [32m200[0m 4.479 ms - 206[0m
+2021-01-10 23:25:15 info: [0mGET /cats/5ffb882023355800353e7851 [32m200[0m 3.636 ms - 208[0m
+2021-01-10 23:25:17 info: [0mGET /cats/5ffb882023355800353e7852 [32m200[0m 3.733 ms - 206[0m
+2021-01-10 23:25:20 info: [0mGET /cats/5ffb882023355800353e7853 [32m200[0m 3.302 ms - 207[0m
+2021-01-10 23:25:21 info: [0mGET /cats/5ffb882023355800353e7854 [32m200[0m 5.691 ms - 222[0m
+2021-01-10 23:26:07 info: [0mGET /cats/5ffb882023355800353e784d [32m200[0m 5.152 ms - 217[0m
+2021-01-10 23:26:10 info: [0mGET /cats/5ffb882023355800353e784e [32m200[0m 3.551 ms - 241[0m
+2021-01-10 23:31:52 info: [0mGET /cats/5ffb882023355800353e7850 [32m200[0m 7.402 ms - 269[0m
+2021-01-10 23:31:53 info: [0mGET /cats/5ffb882023355800353e7851 [32m200[0m 3.574 ms - 208[0m
+2021-01-10 23:32:13 info: [0mGET /cats/5ffb882023355800353e7850 [32m200[0m 5.990 ms - 269[0m
+2021-01-10 23:32:14 info: [0mGET /cats/5ffb882023355800353e784f [32m200[0m 4.690 ms - 216[0m
+2021-01-10 23:32:15 info: [0mGET /cats/5ffb882023355800353e784e [32m200[0m 4.810 ms - 241[0m
+2021-01-10 23:32:16 info: [0mGET /cats/5ffb882023355800353e7853 [32m200[0m 3.159 ms - 207[0m
+2021-01-10 23:32:18 info: [0mGET /cats/5ffb882023355800353e7854 [32m200[0m 4.557 ms - 222[0m
+2021-01-10 23:32:19 info: [0mGET /cats/5ffb882023355800353e7853 [32m200[0m 3.560 ms - 207[0m
+2021-01-10 23:33:33 info: [0mGET /cats [32m200[0m 14.860 ms - -[0m
+2021-01-10 23:33:33 info: [0mGET /cats [32m200[0m 6.191 ms - -[0m
+2021-01-10 23:33:34 info: [0mGET /cats/5ffb882023355800353e7850 [32m200[0m 4.787 ms - 269[0m
+2021-01-10 23:33:34 info: [0mGET /cats [36m304[0m 8.268 ms - -[0m
+2021-01-10 23:33:34 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:33:34 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bf [33m409[0m 5.314 ms - 28[0m
+2021-01-10 23:33:34 info: [0mGET /cats [32m200[0m 4.999 ms - -[0m
+2021-01-10 23:33:34 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:33:34 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bc [33m409[0m 16.321 ms - 28[0m
+2021-01-10 23:33:34 info: [0mGET /cats [32m200[0m 21.380 ms - -[0m
+2021-01-10 23:33:34 info: [0mGET /cats/5ffb882023355800353e7853 [32m200[0m 35.936 ms - 207[0m

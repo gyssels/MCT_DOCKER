@@ -1,0 +1,5 @@
+2021-01-13 22:35:58 info: 🚀 App listening on the port 3000
+2021-01-13 22:35:58 info: 🟢 The database is connected.
+2021-01-13 22:36:19 info: [0mGET /cats [32m200[0m 13.685 ms - -[0m
+2021-01-13 22:36:21 info: [0mGET /cats/5fff75cef36ca10033e9692a [32m200[0m 6.355 ms - 241[0m
+2021-01-13 22:36:23 info: [0mGET /cats/5fff75cef36ca10033e9692c [32m200[0m 2.437 ms - 269[0m

@@ -1,0 +1,56 @@
+2021-01-10 08:49:56 error: StatusCode : 400, Message : email must be an email, password must be a string
+2021-01-10 10:06:27 error: StatusCode : 409, Message : You're email me3@me2.com already exists
+2021-01-10 10:06:50 error: StatusCode : 400, Message : race must be a string, origine must be a string, comportement must be a string, photoURL must be a string
+2021-01-10 22:19:40 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:21:04 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:24:44 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:24:49 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:25:00 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:27:24 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:28:26 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:28:27 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:28:29 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:30:59 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:30:59 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:31:10 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:32:43 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:32:44 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:32:44 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:32:48 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:32:49 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:32:49 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:35:52 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:35:52 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:35:53 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:36:00 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:36:00 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:36:00 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:41:14 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:41:15 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 22:41:15 error: StatusCode : 500, Message : Cast to ObjectId failed for value "NaN" at path "_id" for model "Cat"
+2021-01-10 23:03:15 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:05:14 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:05:16 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:05:18 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:05:21 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:12:07 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:12:08 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:12:08 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:12:28 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:12:29 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:12:30 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:14:45 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:14:45 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:14:46 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:14:55 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:15:31 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:15:31 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:15:32 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:19:00 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:19:02 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:23:46 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:23:47 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:24:33 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:24:35 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:33:34 error: StatusCode : 409, Message : You're not cat
+2021-01-10 23:33:34 error: StatusCode : 409, Message : You're not cat

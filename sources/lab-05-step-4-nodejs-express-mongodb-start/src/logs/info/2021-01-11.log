@@ -1,0 +1,22 @@
+2021-01-11 06:02:04 info: 🚀 App listening on the port 3000
+2021-01-11 06:02:04 info: 🟢 The database is connected.
+2021-01-11 12:12:16 error: StatusCode : 409, Message : You're not cat
+2021-01-11 12:12:16 info: [0mGET /cats/5ffb882023355800353e7853 [33m409[0m 112.721 ms - 28[0m
+2021-01-11 12:12:16 info: [0mGET /cats [32m200[0m 178.877 ms - -[0m
+2021-01-11 12:12:16 info: [0mGET /cats [32m200[0m 22.351 ms - -[0m
+2021-01-11 12:12:16 error: StatusCode : 409, Message : You're not cat
+2021-01-11 12:12:16 info: [0mGET /cats/5ffb06d4ac79f300c57cb3bc [33m409[0m 11.168 ms - 28[0m
+2021-01-11 12:12:16 info: [0mGET /cats [32m200[0m 22.544 ms - -[0m
+2021-01-11 12:12:16 error: StatusCode : 409, Message : You're not cat
+2021-01-11 12:12:16 info: [0mGET /cats/5ffb882023355800353e7850 [33m409[0m 17.494 ms - 28[0m
+2021-01-11 12:29:59 info: 🚀 App listening on the port 3000
+2021-01-11 12:29:59 info: 🟢 The database is connected.
+2021-01-11 12:41:48 info: 🚀 App listening on the port 3000
+2021-01-11 12:41:48 info: 🟢 The database is connected.
+2021-01-11 12:43:45 info: 🚀 App listening on the port 3000
+2021-01-11 12:43:45 info: 🟢 The database is connected.
+2021-01-11 12:43:52 info: 🚀 App listening on the port 3000
+2021-01-11 12:43:52 info: 🟢 The database is connected.
+2021-01-11 12:44:11 info: 🚀 App listening on the port 3000
+2021-01-11 12:44:11 info: 🟢 The database is connected.
+2021-01-11 12:44:34 info: [0mGET /cats [32m200[0m 19.236 ms - -[0m

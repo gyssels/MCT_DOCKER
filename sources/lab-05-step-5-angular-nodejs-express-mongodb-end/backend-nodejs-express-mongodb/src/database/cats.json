@@ -1,0 +1,54 @@
+[
+    {
+        "race": "Turc de Van",
+        "origine": "turquie",
+        "comportement": "Demonstratif",
+        "photoURL": "https://www.woopets.fr/assets/races/000/391/big-portrait/turc-van.jpg"
+    },
+    {
+        "race": "Bleu rusee",
+        "origine": "Le port russe d'Arkhangels",
+        "comportement": "Calme, affectuex",
+        "photoURL": "https://www.woopets.fr/assets/races/000/346/big-portrait/bleu-russe.jpg"
+    },
+    {
+        "race": "Siamois",
+        "origine": "Thaïlande",
+        "comportement": "Démonstratif",
+        "photoURL": "https://www.woopets.fr/assets/races/000/380/big-portrait/siamois.jpg"
+    },
+    {
+        "race": "American Shorthair",
+        "origine": "Croisement chat de gouttière et British Shorthair",
+        "comportement": "Calme",
+        "photoURL": "https://www.woopets.fr/assets/races/000/341/big-portrait/american-shortair.jpg"
+    },
+    {
+        "race": "Ceylan",
+        "origine": "Sri-Lanka",
+        "comportement": "Calme",
+        "photoURL": "https://www.woopets.fr/assets/races/000/351/medium-portrait/ceylan.jpg"
+
+    },
+    {
+        "race": "Bombay",
+        "origine": "Etats-Unis",
+        "comportement": "Calme",
+        "photoURL": "https://www.woopets.fr/assets/races/000/347/big-portrait/bombay.jpg"
+
+    },
+    {
+      "race": "Persan",
+      "origine": "Angora turc",
+      "comportement": "Calme",
+      "photoURL": "https://www.woopets.fr/assets/races/000/372/big-portrait/persan.jpg"
+  },
+  {
+    "race": "Kurilian Bobtail",
+    "origine": "Russie",
+    "comportement": "Calme",
+    "photoURL": "https://www.woopets.fr/assets/races/000/363/big-portrait/kurilian-bobtail.jpg"
+
+}
+
+]

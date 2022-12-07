@@ -1,0 +1,61 @@
+version: '3.7'
+
+services:
+  my-angular:
+      build:
+        context: frontend-angular
+        dockerfile: Dockerfile
+      ports: 
+        - '4200:80'
+      depends_on:
+        - proxy
+      networks:
+        - frontend-network 
+  proxy:
+    image: nginx:alpine
+    container_name: proxy
+    ports:
+      - '80:80'
+    volumes:
+      - ./backend-nodejs-express-mongodb/nginx.conf:/etc/nginx/nginx.conf
+    restart: 'unless-stopped'
+    networks:
+      - backend-network
+      - frontend-network 
+  server:
+    build:
+      context: backend-nodejs-express-mongodb
+      dockerfile: Dockerfile.dev
+    container_name: server
+    ports:
+      - '3000:3000'
+    environment:
+      MONGO_HOST: mongo
+      MONGO_PORT: 27017
+      MONGO_DATABASE: mongoose
+    volumes:
+      - ./backend-nodejs-express-mongodb/:/app
+      - /app/node_modules
+    restart: 'unless-stopped'
+    networks:
+      - backend-network
+    links:
+      - mongo
+    depends_on:
+      - mongo
+  mongo:
+    image: mvertes/alpine-mongo
+    container_name: mongo
+    ports:
+      - '27017:27017'
+    networks:
+      - backend-network
+
+networks:
+  backend-network:
+    driver: bridge
+  frontend-network:
+    driver: bridge
+volumes:
+  data:
+    driver: local
